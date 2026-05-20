@@ -40,6 +40,5 @@ Nearly **7 years of experience** in mission-critical enterprise environments (Ca
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔧 [Machine Failure Prediction](https://github.com/silasluiz96-alt) | Predictive maintenance pipeline for metal-mechanical industry — published research | `Python` `Scikit-learn` `SMOTE` |
-| ⚙️ [Production Process Optimization](https://github.com/silasluiz96-alt) | AI applied to industrial process optimization | `Python` `ML` |
-| 🤖 [LLM Automation Workflows]
+| 🔧 [Machine Failure Prediction](https://github.com/silasluiz96-alt/machine-failure-prediction) | Predictive maintenance pipeline for metal-mechanical industry — published research | `Python` `Scikit-learn` `SMOTE` |
+| 🤖 [SLA Risk Prediction — ZF Automotive](https://github.com/silasluiz96-alt/sla-risk-prediction-zf) | Hybrid LSTM + Decision Tree model for IT ticket SLA breach prediction — 100% original project | `Python` `LSTM` `ML` |
