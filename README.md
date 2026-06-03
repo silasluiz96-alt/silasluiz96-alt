@@ -42,4 +42,4 @@ Nearly **7 years of experience** in mission-critical enterprise environments (Ca
 |---|---|---|
 | 🔧 [Machine Failure Prediction](https://github.com/silasluiz96-alt/machine-failure-prediction) | Predictive maintenance pipeline for metal-mechanical industry — published research | `Python` `Scikit-learn` `SMOTE` |
 | 🤖 [SLA Risk Prediction — ZF Automotive](https://github.com/silasluiz96-alt/sla-risk-prediction-zf) | Hybrid LSTM + Decision Tree model for IT ticket SLA breach prediction — 100% original project | `Python` `LSTM` `ML` |
-| 🎓 [EduSynth](https://github.com/silasluiz96-alt/EduSynth) | Multi-agent Generative AI system — 4 specialized LLM agents for ENEM study | `Python` `Groq` `Streamlit` `LLM` `Multi-Agent` |
+| 🎓 [KnowSynth](https://github.com/silasluiz96-alt/KnowSynth) | Multi-agent Generative AI system — 6 specialized LLM agents for ENEM study | `Python` `Groq` `Streamlit` `LLM` `Multi-Agent` |
