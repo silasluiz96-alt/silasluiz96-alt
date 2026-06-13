@@ -20,19 +20,19 @@ Nearly **7 years of experience** in mission-critical enterprise environments (Ca
 ## 🧠 Tech Stack
 
 **Generative AI & LLMs**
-`Prompt Engineering` `LLM Integration` `Claude Code` `RAG` `Embeddings` `Fine-tuning`
+`Prompt Engineering` `LLM Integration` `Claude Code` `RAG` `Embeddings` `Fine-tuning` 'LangGraph'  'Supabase'  'dbt' 'LangChain'  'Agentes de IA'
 
 **Machine Learning**
-`Scikit-learn` `Decision Tree` `Random Forest` `SVM` `MLP` `LSTM` `SMOTE` `mRMR`
+`Scikit-learn` `Decision Tree` `Random Forest` `SVM` `MLP` `LSTM` `SMOTE` `mRMR` 'Random Forest'  'CART'  'mRMR'  'IQR'  'StandardScaler'
 
 **Data Science**
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
 **Backend & Databases**
-`PL/SQL` `Oracle DB` `MySQL` `C#` `VB.NET` `.NET`
+`PL/SQL` `Oracle DB` `MySQL` `C#` `VB.NET` `.NET` 'FastAPI'  'REST API'  'Docker'  'Railway'  'Streamlit'  'PostgreSQL'
 
 **Infrastructure & Tools**
-`Linux` `Azure` `Git` `Scrum`
+`Linux` `Azure` `Git` `Scrum` 'Docker'  'Railway'  'Linux'  'dbt'
 
 ---
 
