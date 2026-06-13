@@ -32,7 +32,7 @@ Nearly **7 years of experience** in mission-critical enterprise environments (Ca
 `PL/SQL` `Oracle DB` `MySQL` `C#` `VB.NET` `.NET` `FastAPI`  `REST API`  `Docker`  `Railway`  `Streamlit`  `PostgreSQL`
 
 **Infrastructure & Tools**
-`Linux` `Azure` `Git` `Scrum` 'Docker'  `Railway`  `Linux`  `dbt`
+`Linux` `Azure` `Git` `Scrum` `Docker`  `Railway`  `Linux`  `dbt`
 
 ---
 
