@@ -23,7 +23,7 @@ Nearly **7 years of experience** in mission-critical enterprise environments (Ca
 `Prompt Engineering` `LLM Integration` `Claude Code` `RAG` `Embeddings` `Fine-tuning` `LangGraph`  `Supabase`  `dbt` `LangChain`  `Agentes de IA`
 
 **Machine Learning**
-`Scikit-learn` `Decision Tree` `Random Forest` `SVM` `MLP` `LSTM` `SMOTE` `mRMR` `Random Forest`  `CART`  `mRMR`  `IQR`  `StandardScaler`
+`Scikit-learn` `Decision Tree` `Random Forest` `SVM` `MLP` `LSTM` `SMOTE` `CART`  `mRMR`  `IQR`  `StandardScaler`
 
 **Data Science**
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
