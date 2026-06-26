@@ -20,19 +20,19 @@ Nearly **7 years of experience** in mission-critical enterprise environments (Ca
 ## 🧠 Tech Stack
 
 **Generative AI & LLMs**
-`Prompt Engineering` `LLM Integration` `Claude Code` `RAG` `Embeddings` `Fine-tuning` `LangGraph`  `Supabase`  `dbt` `LangChain`  `Agentes de IA`
+`Prompt Engineering` `LLM Integration` `Claude Code` `RAG` `Embeddings` `Fine-tuning` `LangGraph` `Supabase` `dbt` `LangChain` `Agentes de IA`
 
 **Machine Learning**
-`Scikit-learn` `Decision Tree` `Random Forest` `SVM` `MLP` `LSTM` `SMOTE` `CART`  `mRMR`  `IQR`  `StandardScaler`
+`Scikit-learn` `Decision Tree` `Random Forest` `SVM` `MLP` `LSTM` `SMOTE` `CART` `mRMR` `IQR` `StandardScaler`
 
 **Data Science**
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
 **Backend & Databases**
-`PL/SQL` `Oracle DB` `MySQL` `C#` `VB.NET` `.NET` `FastAPI`  `REST API`  `Docker`  `Railway`  `Streamlit`  `PostgreSQL`
+`PL/SQL` `Oracle DB` `MySQL` `C#` `VB.NET` `.NET` `FastAPI` `REST API` `Docker` `Railway` `Streamlit` `PostgreSQL`
 
 **Infrastructure & Tools**
-`Linux` `Azure` `Git` `Scrum` `Docker`  `Railway`  `Linux`  `dbt`
+`Linux` `Azure` `Git` `Scrum` `Docker` `Railway` `dbt`
 
 ---
 
@@ -41,5 +41,4 @@ Nearly **7 years of experience** in mission-critical enterprise environments (Ca
 | Project | Description | Stack |
 |---|---|---|
 | 🔧 [Machine Failure Prediction](https://github.com/silasluiz96-alt/machine-failure-prediction) | Predictive maintenance pipeline for metal-mechanical industry — published research | `Python` `Scikit-learn` `SMOTE` |
-| 🤖 [SLA Risk Prediction — ZF Automotive](https://github.com/silasluiz96-alt/sla-risk-prediction-zf) | Hybrid LSTM + Decision Tree model for IT ticket SLA breach prediction — 100% original project | `Python` `LSTM` `ML` |
-| 🎓 [KnowSynth](https://github.com/silasluiz96-alt/KnowSynth) | Multi-agent Generative AI system — 6 specialized LLM agents for ENEM study | `Python` `Groq` `Streamlit` `LLM` `Multi-Agent` |
+| 🎓 [KnowSynth](https://github.com/silasluiz96-alt/KnowSynth) | Multi-agent Generative AI system for ENEM study — Supabase Auth, dbt analytics, RAG, SendGrid, PWA | `Python` `Gemini` `Groq` `Streamlit` `Supabase` `dbt` `SendGrid` `Multi-Agent` |
